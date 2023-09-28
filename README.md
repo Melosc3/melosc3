@@ -1,7 +1,8 @@
 ### Olá, eu sou o Fernando Melo! Estudante de programação WEB! 👋
 
 ##
-- 🌱 Atualmente estou estudando front-end
+- Atualmente estou estudando frontend
+- Estudando e apresndendo backend
 
 <div>
     <a href="https://github.com/melosc3">
