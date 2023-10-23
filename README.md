@@ -2,7 +2,6 @@
 
 ##
 - Atualmente estou estudando frontend
-- Estudando e apresndendo backend
 
 <div>
     <a href="https://github.com/melosc3">
